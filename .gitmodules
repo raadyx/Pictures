@@ -1,0 +1,36 @@
+[submodule "isysd"]
+	path = isysd
+	url = git@bitbucket.org:isysd/pictures-isysd.git
+[submodule "300e"]
+	path = 300e
+	url = git@bitbucket.org:isysd/pictures-300e.git
+[submodule "mizim"]
+	path = mizim
+	url = git@bitbucket.org:mizim/pictures-mizim.git
+[submodule "zimmi"]
+	path = zimmi
+	url = git@bitbucket.org:zimmiglobal/pictures-zimmi.git
+[submodule "guld"]
+	path = guld
+	url = git@bitbucket.org:guld/pictures-guld.git
+[submodule "raadyx"]
+	path = raadyx
+	url = git@bitbucket.org:raadyx/pictures-raadyx.git
+[submodule "tigoctm"]
+	path = tigoctm
+	url = git@bitbucket.org:tigoctm/pictures-tigoctm.git
+[submodule "gg"]
+	path = gg
+	url = git@bitbucket.org:guldgames/pictures-gg.git
+[submodule "honeyparty"]
+	path = honeyparty
+	url = git@bitbucket.org:isysd/pictures-honeyparty.git
+[submodule "bitt"]
+	path = bitt
+	url = git@bitbucket.org:isysd/pictures-bitt.git
+[submodule "ptyglass"]
+	path = ptyglass
+	url = git@bitbucket.org:isysd/pictures-ptyglass.git
+[submodule "agroland"]
+	path = agroland
+	url = git@bitbucket.org:isysd/pictures-agroland.git
