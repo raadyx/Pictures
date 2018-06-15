@@ -1,5 +1,6 @@
 [submodule "isysd"]
 	path = isysd
+	branch = isysd
 	url = git@bitbucket.org:isysd/pictures-isysd.git
 [submodule "300e"]
 	path = 300e
